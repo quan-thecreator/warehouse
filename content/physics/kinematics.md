@@ -18,4 +18,12 @@ In this rendering of motion, you will *never* need to use vector quantities to d
 - *total distance* is the overall distance traveled by the object/particle regardless of reference frame or initial/final positions
 - change in positions is described using $\Delta x$
 
+## Average Velocity
+It is important to note that this equation was derived from the more complicated calculus variant of the velocity equation. There are 2 important terms here.
+
+$$
+\text{average speed}=\frac{\text{distance traveled}}{\text{time elapsed}}=\frac{\Delta x}{\Delta t}
+$$
+
+
 #physics

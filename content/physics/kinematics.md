@@ -24,6 +24,29 @@ It is important to note that this equation was derived from the more complicated
 $$
 \text{average speed}=\frac{\text{distance traveled}}{\text{time elapsed}}=\frac{\Delta x}{\Delta t}
 $$
+For any form of velocity, the speed is simply calculated by using the magnitude of the velocity vector $||\vec{v}||$, but since we exist in one dimension now, we will use $|v(t)|$
+## Instantaneous Velocity
+If the position equation is defined as $x(t)$, then:
+$$
+\text{instantaneous velocity} = \tfrac{\mathrm{d}x}{\mathrm{d}t} = v(t) = \lim_{\Delta t \to 0}{\tfrac{\Delta x}{\Delta t}}
+$$
+
+## Average Acceleration
+The acceleration of an object is the rate at which the velocity of said object changes. **Average Acceleration** is defined as the change in velocity from 2 distinct points divided by the change in time between those 2 distinct points.
+$$
+\text{average acceleration} = \frac{\text{change of velocity}}{\text{time elapsed}}
+$$
+Or more mathematically:
+$$
+a=\frac{v_2-v_1}{t_2-t_1}=\tfrac{\Delta v}{\Delta t}
+$$
+
+## Instantaneous Acceleration 
+If the velocity function is defined as $v(t)$ (this notation only applies to 1 dimension):
+$$
+a(t)=\tfrac{\mathrm{d}v}{\mathrm{d}t}=\lim_{\Delta t \to 0}{\tfrac{\Delta v}{\Delta t}}
+$$
+Please take calculus/study calculus if you want a neuron or two to function during the course of this, well, course.
 
 
 #physics

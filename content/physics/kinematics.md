@@ -83,5 +83,24 @@ $$
 ## Objects in free fall
 Just remember that $g=9.80\mathrm{m}/\mathrm{s}^2$
 
+# Vectors
+You haven't seen any vectors to this point yet, so here we go! Vectors are essentially made of 2 components as long as they are two dimensional. You can either specify the relative coordinates they meet or the direction and magnitude. For example, you can write it out as either: $\vec{p}=\langle a,b\rangle$ or as $\vec{p}=\langle m;\theta \rangle$. To convert between them: $\vec{p}=\langle m\sin{\theta},m\cos{\theta}\rangle$
+
+## Adding and Subtracting Vectors:
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.nagwa.com%2F124176839832%2Fen%2Fthumbnail_l.jpeg&f=1&nofb=1&ipt=408b463f7b54ff9a5f32090ae4fdb5581a1d425798af862a483c121bdedeae94&ipo=images)
+Now that you understand that, I can say that displacement in 2D is all about a certain amount of movement in $\hat{i}$ direction or $\hat{j}$, then adding or subtracting them to compute the same dimensional cumulative vector.
+
+## Magnitude 
+For the rectangular component vector form:
+$$
+||\vec{p}||=\sqrt{a^2+b^2}
+$$
+In more than two dimensions, you would just sum more components in the same fashion as $a$ and $b$. With the circular vector form:
+$$
+||\vec{p}||=m 
+$$
+Refer to the stuff above to make sense of this.
+
+## 2D Kinematics
 
 #physics

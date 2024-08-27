@@ -113,5 +113,33 @@ $$
 ## Calculating Displacement in 2D 
 The displacement vector $\vec{D}$ is simply the sum off all movement vectors $\vec{m_{0 \ldots n}}$. You can the calculate the magnitude of that vector to get the distance of the displacement as $||\vec{D}||$
 
+## Projectile motion
 
+Not that this section on projectile motion is very different from the application of the constant acceleration velocity equation to gravity using $-g$ as the acceleration. Here, motion is 2D, and is *propelled*. For an object to be propelled means for that object to have an initial velocity. Additionally, the object will also usually have a lunch angle, starting from $\theta=0$ on the positive $x$ axis. There are generally 2 methods to go about this, with one being a substitution of gravity into another. 
+
+### General Projectile Vectors for Constant Acceleration
+Without any further definitions, other than $\vec{v}$ is the velocity vector, $\vec{a}$ is the acceleration vector, and $\vec{s}$ is the position vector. The velocity vector is a function of any given point of time $t$ given as such:
+$$
+\vec{v}(t)=\vec{v}_0+\vec{a}t=\langle v_{x0}+t(a_x), v_{y0}+t(a_y)
+$$
+This can also be visually represented as such:
+![](bullet.png)
+
+You can also calculate the square of the velocity vector independent of of the time $t$. This can low-key be helpful when you only have the position vector $\vec{s}$.
+$$
+\vec{v^2}=\langle v^2_x0+2a_x(x-x_0),v^2_y0+2a_y(y-y_0) \rangle
+$$
+The position finally being:
+$$
+\vec{s}(t)=\vec{s}_0+t\vec{v_0}+\frac{1}{2}\vec{a}*t^2
+$$
+### Standard Projectile motion with Gravity
+First it is defined that $\vec{a}=\langle 0,-g\rangle$. The composite velocity vector is therefore defined as:
+$$
+\vec{v}(t)=\langle v_{x0}, v_{y0}-gt
+$$
+That $g$ is for gravity. It is also important to remember that $\vec{v}=\langle v_0\cos\theta,v_0\sin\theta\rangle$.
+$$
+\vec{s}=\vec{s}_0+t\vec{v}
+$$
 #physics

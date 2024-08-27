@@ -120,7 +120,7 @@ Not that this section on projectile motion is very different from the applicatio
 ### General Projectile Vectors for Constant Acceleration
 Without any further definitions, other than $\vec{v}$ is the velocity vector, $\vec{a}$ is the acceleration vector, and $\vec{s}$ is the position vector. The velocity vector is a function of any given point of time $t$ given as such:
 $$
-\vec{v}(t)=\vec{v}_0+\vec{a}t=\langle v_{x0}+t(a_x), v_{y0}+t(a_y)
+\vec{v}(t)=\vec{v}_0+\vec{a}t=\langle v_{x0}+t(a_x), v_{y0}+t(a_y)\rangle
 $$
 This can also be visually represented as such:
 ![](bullet.png)

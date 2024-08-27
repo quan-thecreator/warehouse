@@ -127,7 +127,7 @@ This can also be visually represented as such:
 
 You can also calculate the square of the velocity vector independent of of the time $t$. This can low-key be helpful when you only have the position vector $\vec{s}$.
 $$
-\vec{v^2}=\langle v^2_x0+2a_x(x-x_0),v^2_y0+2a_y(y-y_0) \rangle
+\vec{v^2}=\langle v^2_{x0}+2a_x(x-x_0),v^2_{y0}+2a_y(y-y_0) \rangle
 $$
 The position finally being:
 $$

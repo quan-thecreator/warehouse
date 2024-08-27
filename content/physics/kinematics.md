@@ -136,7 +136,7 @@ $$
 ### Standard Projectile motion with Gravity
 First it is defined that $\vec{a}=\langle 0,-g\rangle$. The composite velocity vector is therefore defined as:
 $$
-\vec{v}(t)=\langle v_{x0}, v_{y0}-gt
+\vec{v}(t)=\langle v_{x0}, v_{y0}-gt\rangle
 $$
 That $g$ is for gravity. It is also important to remember that $\vec{v}=\langle v_0\cos\theta,v_0\sin\theta\rangle$.
 $$

@@ -138,8 +138,16 @@ First it is defined that $\vec{a}=\langle 0,-g\rangle$. The composite velocity v
 $$
 \vec{v}(t)=\langle v_{x0}, v_{y0}-gt\rangle
 $$
-That $g$ is for gravity. It is also important to remember that $\vec{v}=\langle v_0\cos\theta,v_0\sin\theta\rangle$.
+That $g$ is for gravity. It is also important to remember that $\vec{v}=\langle v_0\cos\theta,v_0\sin\theta\rangle$. You can also get the position vector by integrating the velocity vector.
 $$
-\vec{s}=\vec{s}_0+t\vec{v}
+\vec{s}=\langle s_{x0}+tv_{x0},s_{y0}+v_{y0}-\frac{1}{2}gt^2 \rangle
 $$
+
+> [!NOTE]
+> An artillery shell is fired at an angle of $67.9\degree$ above the horizontal ground with an initial speed of $1890 \mathrm{m}/\mathrm{s}$. The gravity acceleration constant is the standard value for $g$. What is the total flight time of the shell in minutes?
+
+> [!faq]- Answer
+> If you want the long answer just message me, I'm too tired to do this now.$5.9563$ minutes. Essentially, produce the position vector, then solve for the $y$ component to be $0$.
+
+
 #physics

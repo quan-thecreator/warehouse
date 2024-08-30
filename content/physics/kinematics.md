@@ -115,7 +115,7 @@ The displacement vector $\vec{D}$ is simply the sum off all movement vectors $\v
 
 ## Projectile motion
 
-Not that this section on projectile motion is very different from the application of the constant acceleration velocity equation to gravity using $-g$ as the acceleration. Here, motion is 2D, and is *propelled*. For an object to be propelled means for that object to have an initial velocity. Additionally, the object will also usually have a lunch angle, starting from $\theta=0$ on the positive $x$ axis. There are generally 2 methods to go about this, with one being a substitution of gravity into another. 
+Not that this section on projectile motion is very different from the application of the constant acceleration velocity equation to gravity using $-g$ as the acceleration. Here, motion is 2D, and is *propelled*. For an object to be propelled means for that object to have an initial velocity. Additionally, the object will also usually have a launch angle, starting from $\theta=0$ on the positive $x$ axis. There are generally 2 methods to go about this, with one being a substitution of gravity into another. 
 
 ### General Projectile Vectors for Constant Acceleration
 Without any further definitions, other than $\vec{v}$ is the velocity vector, $\vec{a}$ is the acceleration vector, and $\vec{s}$ is the position vector. The velocity vector is a function of any given point of time $t$ given as such:

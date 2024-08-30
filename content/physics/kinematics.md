@@ -140,7 +140,7 @@ $$
 $$
 That $g$ is for gravity. It is also important to remember that $\vec{v}=\langle v_0\cos\theta,v_0\sin\theta\rangle$. You can also get the position vector by integrating the velocity vector.
 $$
-\vec{s}=\langle s_{x0}+tv_{x0},s_{y0}+v_{y0}-\frac{1}{2}gt^2 \rangle
+\vec{s}=\langle s_{x0}+tv_{x0},s_{y0}+tv_{y0}-\frac{1}{2}gt^2 \rangle
 $$
 
 > [!NOTE]

@@ -73,6 +73,8 @@ And so on.
 This is mathematically put down as $\vec{F}_1=-\vec{F}_2$. Below, $\vec{F}_{GP}=-\vec{F}_{PG}$.
 ![](person_ground.png)
 
+In the following illustration, Honest Abe exerts the force of gravity upon the table. Let's say he was about $0.9074074074$ Elons, or 1 Trump($245$ pounds). Firstly, illustration depicts 2 forces that art on the same object, Honest Abe. The downward arrow labeled $\vec{F}_G$ represents the force caused by gravity, and $\vec{F}_N$ represents the reactionary force enacted by the table upon the statue, meaning both act on the statue. A common misconception is that they're the same equal and opposite forces shown in Newton's 3rd Law -- because the 3rd law states that the reactionary force applies on a *different object.* The second image correctly displays the reactionary force to $\vec{F}_N$ as $\vec{F'}_N$, which is exerted on the table by the statue. **Don't ask what happens as a result of the gravitational force, Newton doesn't have a very good answer.**
+![](gravity_forces.png)
 
 
 #physics

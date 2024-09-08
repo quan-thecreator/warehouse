@@ -2,7 +2,7 @@
 title: Vectors and Kinematics
 date: 2024-08-19
 ---
-> One must always start a study into the heavily crippled IB editions of the glorious subject of Physics with the initial understanding that the road ahead lead to pain immeasurable.
+> One must always start a study into the heavily crippled IB editions of the glorious subject of Physics with the initial understanding that the road ahead leads to pain immeasurable.
 >
 > -> Prime of the Faith
 

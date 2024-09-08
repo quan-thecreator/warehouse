@@ -2,9 +2,17 @@
 title: Forces
 date: 2024-09-07
 ---
+> One must always start a study into the heavily crippled IB editions of the glorious subject of Physics with the initial understanding that the road ahead leads to pain immeasurable.
+>
+> -> Prime of the Faith
 
 # Track of Variables
-
+> [!IMPORTANT]
+> YOU WILL NEED TO KNOW WHAT VECTORS ARE MATHEMATICALLY. THEY WERE ON THE LAST TEST, EVEN MORE SO NOW.
+- $\vec{a}$ is the acceleration vector of an object. Has a frame of reference.
+- $\vec{F}$ is a force vector. Has a reference frame.
+- $sum{\vec{F}}$ is the sum of all force vectors acting on an object. Also has a reference frame.
+- $m$ is mass, a scalar quantity
 # Newton's laws of Motion
 
 ## Force 
@@ -57,6 +65,14 @@ $$
 \sum{F_\dots}=ma_\dots
 $$
 And so on.
+
+## Newton's Third Law of Motion
+
+>   Whenever one object exerts a force on a second object, the second exerts an equal force in the opposite direction the first.
+
+This is mathematically put down as $\vec{F}_1=-\vec{F}_2$. Below, $\vec{F}_{GP}=-\vec{F}_{PG}$.
+![](person_ground.png)
+
 
 
 #physics

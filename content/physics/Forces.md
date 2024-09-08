@@ -11,7 +11,7 @@ date: 2024-09-07
 > YOU WILL NEED TO KNOW WHAT VECTORS ARE MATHEMATICALLY. THEY WERE ON THE LAST TEST, EVEN MORE SO NOW.
 - $\vec{a}$ is the acceleration vector of an object. Has a frame of reference.
 - $\vec{F}$ is a force vector. Has a reference frame.
-- $sum{\vec{F}}$ is the sum of all force vectors acting on an object. Also has a reference frame.
+- $\sum{\vec{F}}$ is the sum of all force vectors acting on an object. Also has a reference frame.
 - $m$ is mass, a scalar quantity
 # Newton's laws of Motion
 

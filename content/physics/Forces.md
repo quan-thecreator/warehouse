@@ -35,4 +35,28 @@ You might have previously heard the Newtonian definition of mass, which makes it
 
 > The acceleration of an object is directly proportional to the net force acting on it, and is inversely proportional to its mass. The direction of the acceleration is the direction of the net force acting on the object.
 
+This can directly be written into math like so:
+$$
+\vec{a}=\frac{\sum{\vec{F}}}{m}
+$$
+Or as the more commonly seen:
+$$
+\sum{\vec{F}}=m\vec{a}
+$$
+Or in an even simpler manner if you assume a 1D world: $F=ma$. No matter the form, all it means is that the *net force* on the object (as show in the summation of force vectors), divided by the mass, is the acceleration applied to the object. Note first that you will almost neevr deal with this equation is the hyper-simple singular dimensional world, because most problems require gravity to be considered. Another valuable insight is how gravity is **not** a part of this equation, as it a phenomenon that creates a force of its own. These forces can also be broken down along side the acceleration vectors into their own dimensions. Read about vectors in [Vectors and Kinematics](kinematics.md) if you don't understand the following.
+$$
+\sum{F_x}=ma_x
+$$
+$$
+\sum{F_y}=ma_y
+$$
+$$
+\sum{F_z}=ma_z
+$$
+$$
+\sum{F_\dots}=ma_\dots
+$$
+And so on.
+
+
 #physics

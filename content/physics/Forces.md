@@ -115,5 +115,12 @@ According to this formula, the force of static friction scales up until the obje
 >   D) static friction, $38$N is still not sufficient to move the box, but just barley \
 >   E) kinetic friction, $40\mathrm{N}>39.2\mathrm{N}$, $||\vec{F}_{fr}||=0.30*98\mathrm{N}=29.4\mathrm{N}$. $40\mathrm{N}-29.4\mathrm{N}=10.6\mathrm{N}$, to see how fast the box will move: $\frac{||\vec{F}_f||}{10.0\mathrm{kg}}=1.06$ m/s. In freedom units: $2.371152$ Miles an hour.
 
+# Tension
+
+Until this point, we've been ignoring the mysterious forces that enact the forces for the sake of our own misery. Rather than a rigid body applying force, you'll sometimes see the word tension come up in contexts of 'ropes', 'strings', or other objects that serve only to pull on the object of interest.
+
+![](https://digestiblenotes.com/images/physics/alevel/tug1.png)
+
+As shown in the image, tension on a string or another mass-less is a result of Newton's $3^{\mathrm{rd}}$ law of motion. The men pull on the rope, exerting the two middle forces labeled $240$ N and $236$ N respectively. As a result, the rope pulls the blue shirted man by 240 N. In order to accelerate the whole system to left by $2 \mathrm{m}/\mathrm{s}^2$, Alan has to exert $400$ N of force pushing the earth to the right. As a *result* of Newton's $2^\mathrm{nd}$ law of motion, the Earth exerts 400 N of force on the blue shirted man, leftwards. This is labeled $R_1$. 
 
 #physics

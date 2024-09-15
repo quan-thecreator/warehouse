@@ -38,8 +38,8 @@ Also important to note is that Newton's first law does not hold true in every re
 
 ## Newton's Second Law of Motion 
 The second law makes use of  the concept of mass, so that seems to be next on the agenda. 
-### Mass 
-You might have previously heard the Newtonian definition of mass, which makes it synonymous with a measure for the "quantity of matter" in an object. However, physicists have since come to a consensus that this is a definition sans precision. Mass is the *measure of  the inertia of an object.^ The more mass an object has, the greater the force needed to give it a particular acceleration. In other words, get it moving.  
+### Mass
+You might have previously heard the Newtonian definition of mass, which makes it synonymous with a measure for the "quantity of matter" in an object. However, physicists have since come to a consensus that this is a definition sans precision. Mass is the *measure of  the inertia of an object.* The more mass an object has, the greater the force needed to give it a particular acceleration. In other words, get it moving.  
 
 ### The Law
 

@@ -133,6 +133,37 @@ $$
 \sum{\vec{F}}=\langle ma+mg;-\tfrac{\pi}{2}\rangle
 $$
 
+# Springs
+
+Springs are explained by something called *Hooke's Law*. It essentially states:
+
+>   Ut tensio sic vic[^2] 
+
+That translates to:
+
+>   As extension, so is force
+
+$$
+\therefore \Delta x \propto F 
+$$
+The actual formula looks like: 
+$$
+\vec{F}_e=-k\Delta x
+$$
+The subscript $e$ means 'the elastic force' or the force being exerted *by* the spring. That wording is hyper-specific for a reason, that reason being the slight distinction between the signs of the force vectors while the spring is in different states. As you'll see in the diagram below, a positive $\Delta x$ signifies an extension of the spring, which generates a negative force. The exact opposite is true in any other case.
+
+![](hooke.png)
+
+Like in any other problem of proportionality (in math), $k$ is taken to be the *constant* value of the proportion. The SI unit for the **spring constant** is Newtons per meter. Therefore, it is possible using simple algebra to show:
+
+$$
+k=\frac{||\vec{F}||}{x}
+$$
+
 [^1]: I'm working in radians here.
+[^2]: This is latin.
+
+
+
 
 #physics

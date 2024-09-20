@@ -10,7 +10,7 @@ These Terms of Service ("TOS") govern the access and use of **warehouse.ayyalaso
 
 ## **2. Subscription Plan**
 
-The Website offers a subscription service to access exclusive physics notes and materials located at **/physics/**. By subscribing, you agree to pay the subscription fee of $5 per month unless otherwise stated by an explicit discount. All discounts must be explicitly stated and logged in our database at the time of order. No discounts will be retroactively applied.
+The Website offers a subscription service to access exclusive physics notes and materials located at **/physics/**. By subscribing, you agree to pay the subscription fee of $10 per month unless otherwise stated by an explicit discount. All discounts must be explicitly stated and logged in our database at the time of order. No discounts will be retroactively applied.
 
 ## **3. Cancellation and Termination of Service**
 

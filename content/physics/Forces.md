@@ -160,6 +160,54 @@ $$
 k=\frac{||\vec{F}||}{x}
 $$
 
+# Buoyancy
+
+![](https://openstax.org/apps/archive/20240812.170248/resources/890168a9ef96d6cdea88cf7a401fd7bd9618187a)
+
+As shown in the image here, $||\vec{F}_B||$ is not simply equivalent to the weight (that's a force incorporating the force experienced because of gravity). Therefore, it's important to remember the more complicated formulas:
+
+$$
+F_1=h_1\rho gA 
+$$
+$$
+F_2=h_2\rho gA 
+$$
+And the total magnitude of the buoyant force is simply the subtraction of the force pushing the object up and the force pushing the object down: $F_B=F_2-F_1$. Breaking apart these equations, it's important to understand a couple things:
+
+- $\rho$, pronounced *rho* (the *h* is silent) is the density of the fluid. The SI unit for density is $\frac{\mathrm{kg}}{\mathrm{m}^3}$
+- *Standard Temperature and Pressure* (STP) is the state of a system at $273.15$ K or $0\degree$ C, at $10^5$ ($1$ bar/$14$ atm) of pressure.
+- At STP, the density of water, $\rho_w=0.9982071\approx 1$ g/ml 
+- A liter is a measure of volume equivalent to $0.001$ cubic meters, or 1000 cubic centimeters.
+- $A$ is the cross sectional area of the object where the object is not parallel to the static particles of the liquid
+
+>   **Archimedes' Principle** \
+>   $F_B=w_{\mathrm{fl}}$, but you often need to break this down to really be able to calculate what's required.
+
+## Fraction Submerged
+
+The fraction of an object submerged can easily be found using the following equation:
+
+$$
+\frac{V_{\mathrm{sub}}}{V_{\mathrm{obj}}}=\frac{V_{\mathrm{fl}}}{V_{\mathrm{obj}}}
+$$
+
+$V_{\mathrm{fl}}$ is the volume of fluid displaced, not the volume of fluid total. 
+$$
+\frac{V_{\mathrm{fl}}}{V_{\mathrm{obj}}}=\frac{m_{\mathrm{fl}}/\rho_{\mathrm{fl}}}{m_{\mathrm{obj}}/\rho_{\mathrm{obj}}}
+$$
+
+The following is only true if the object floats:
+$$
+\frac{V_{\mathrm{fl}}}{V_{\mathrm{obj}}}=\frac{\rho_\mathrm{obj}}{\rho_\mathrm{fl}}
+$$
+
+# Circular motion
+
+**TODO!**
+
+
+
+
 [^1]: I'm working in radians here.
 [^2]: This is latin.
 

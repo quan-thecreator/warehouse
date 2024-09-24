@@ -203,7 +203,38 @@ $$
 
 # Circular motion
 
-**TODO!**
+An object that moves in a circle at a constant speed $||\vec{v}||$ experiences **uniform circular motion**. The most important part of that sentence is the constant speed part; the measurement $||\vec{v}||$ is reference to the center of the circle. 
+
+![](circular-motion.png)
+
+As seen above, a velocity for every point on the path of the circle's motion exits, and the change in the two velocity vectors from any two points separated by $\Delta t$ with respect to time computes the acceleration. As these two vectors become closer in size and more parallel, the difference becomes the vertical difference between the two showed in Figure 5-2 B. The acceleration vector is always directed to the center of the circle.
+$$
+a_R=\lim_{\Delta t\to0}{\frac{\Delta \vec{v}}{\Delta t}}=\frac{v^2}{r}
+$$
+$a_R$ is the radial acceleration, otherwise known as the centripetal acceleration. It's easier not to consider centripetal acceleration as a result of the imaginary centripetal force if instead thought of as acceleration experienced by the object radially, or on the radius of motion. 
+$$
+T=\frac{1}{f}
+$$
+
+$f$ is the revolutions per second of the object, usually expressed in its SI units: hertz. In radians:
+
+$$
+v=\frac{\text{distance}}{\text{time}}=\frac{2\pi r}{T}
+$$
+
+It's important to note that the acceleration and velocity vectors at an instant are always perpendicular. Additionally, in uniform circular motion, the magnitude of the acceleration vector is always constant. 
+
+![](perp-vectors.png)
+
+> [!FAQ] Question
+> A $150$ gram ball at the end of a string is revolving uniformly in a horizontal circle of radius $0.6$ m. The ball makes 2 revolutions in a second. What is its centripetal acceleration?
+
+> [!NOTE]- Answer
+> First recognize the centripetal acceleration formula is $a_R=v^2/r$. $r$ is give. Additionally, we must use the velocity formula for fixed periods: \
+> $v=\frac{2\pi r}{T}$. \
+> Since the ball makes 2 revolutions in a second, the period $T$ must be $\tfrac{1}{2}$. $v=\frac{2\pi(0.6\mathrm{m})}{0.5}=7.54$, the unit of that output being meters/second. Substituting that value for the speed $v$ in the acceleration formula, acceleration is $94.7 \mathrm{m}/\mathrm{s}^2$
+
+
 
 
 

@@ -201,6 +201,26 @@ $$
 \frac{V_{\mathrm{fl}}}{V_{\mathrm{obj}}}=\frac{\rho_\mathrm{obj}}{\rho_\mathrm{fl}}
 $$
 
+## Stokes' law 
+
+**Stokes' law** is an empirical law for the frictional forces, or drag force, exerted on spherical objects with very small Reynolds numbers in a *viscous* fluid.
+
+$$
+\mathrm{Re}=\frac{uL}{\nu}=\frac{\rho uL}{\eta}
+$$
+
+-   $\rho$ is the density of the fluid 
+-   $u$ is the flow speed 
+-   $L$ is the *characteristic length* or reference scale for the rest of the number. For a flat plate, it is the length of the plate (the distance the fluid may travel unrestricted). For a hollow cylinder or pipe, it is the diameter of the pipe. For a sphere, it is its diameter 
+-   $\eta$ (pronounced *eta*) is the *dynamic viscosity* of the fluid
+-   **Stokes' law only works when $\mathrm{Re}<1$**
+-   $\nu$ is the *kinematic viscosity* of the fluid.
+
+Stokes' law also only functions for spheres. It's usually written as, with all of the aforementioned variables translating perfectly:
+$$
+||\vec{F}_d||=6\pi\eta Rv
+$$
+
 # Circular motion
 
 An object that moves in a circle at a constant speed $||\vec{v}||$ experiences **uniform circular motion**. The most important part of that sentence is the constant speed part; the measurement $||\vec{v}||$ is reference to the center of the circle. 
@@ -211,7 +231,8 @@ As seen above, a velocity for every point on the path of the circle's motion exi
 $$
 a_R=\lim_{\Delta t\to0}{\frac{\Delta \vec{v}}{\Delta t}}=\frac{v^2}{r}
 $$
-$a_R$ is the radial acceleration, otherwise known as the centripetal acceleration. It's easier not to consider centripetal acceleration as a result of the imaginary centripetal force if instead thought of as acceleration experienced by the object radially, or on the radius of motion. 
+$a_R$ is the radial acceleration, otherwise known as the centripetal acceleration. It's easier not to consider centripetal acceleration as a result of the imaginary centripetal force if instead thought of as acceleration experienced by the object radially, or on the radius of motion. A Reynolds number is calculated like so (**you don't need to know this**):
+
 $$
 T=\frac{1}{f}
 $$
@@ -234,8 +255,25 @@ It's important to note that the acceleration and velocity vectors at an instant 
 > $v=\frac{2\pi r}{T}$. \
 > Since the ball makes 2 revolutions in a second, the period $T$ must be $\tfrac{1}{2}$. $v=\frac{2\pi(0.6\mathrm{m})}{0.5}=7.54$, the unit of that output being meters/second. Substituting that value for the speed $v$ in the acceleration formula, acceleration is $94.7 \mathrm{m}/\mathrm{s}^2$
 
+# Momentum
 
+> [!NOTE]+
+> Calculus ahead. If you're not there, move on or start back at the top. It hardly matters
 
+The momentum of a single particle is written as:
+$$
+\vec{p}=m\vec{v} 
+$$
+This is a vector quantity, since velocity is a vector, so a constant multiplied by a vector is still a vector of the same dimensions. Momentum is also incredibly related to force. In differential form, as it was first written, *Newton's $2^\mathrm{nd}$ law* states:
+$$
+F=\frac{\mathrm{d}p}{\mathrm{d}t}
+$$
+
+Additionally - if the net force experienced by an object at any time $t$ is expressed as $F(t)$:
+$$
+\Delta p = J = \int_{t_1}^{t_2}{F(t)\mathrm{d}t}
+$$
+$j$ is also something called the *impulse.*
 
 
 

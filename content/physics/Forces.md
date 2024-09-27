@@ -260,6 +260,38 @@ It's important to note that the acceleration and velocity vectors at an instant 
 > $v=\frac{2\pi r}{T}$. \
 > Since the ball makes 2 revolutions in a second, the period $T$ must be $\tfrac{1}{2}$. $v=\frac{2\pi(0.6\mathrm{m})}{0.5}=7.54$, the unit of that output being meters/second. Substituting that value for the speed $v$ in the acceleration formula, acceleration is $94.7 \mathrm{m}/\mathrm{s}^2$
 
+## Angular velocity and momentum
+
+Angular velocity is denoted $\omega$ and is a pseudo-vector usually written in the polar form: $\langle m; \theta \rangle$. From a birds-eye view:
+$$
+\omega = \frac{\Delta\theta}{\Delta t}
+$$
+
+### Uniform Circular Motion 
+Going off of the equation above for velocity, the angular velocity is simply:
+$$
+\omega = \frac{2\pi}{T}
+$$
+
+### Non-uniform circular motion 
+
+Probably will never need to use this until HL year or the momentum unit (very next one).
+
+$$
+\omega(t)=\frac{\mathrm{d}\theta}{\mathrm{d}t}
+$$
+Angular acceleration:
+$$
+\alpha=\frac{\mathrm{d}\omega}{\mathrm{d}t}
+$$
+
+### Centrifugal force 
+
+Following those formulas (read more [here](https://en.wikipedia.org/wiki/Centrifugal_force)):
+$$
+||\vec{F}_C||=m\omega^2r
+$$
+
 # Momentum
 
 > [!NOTE]+

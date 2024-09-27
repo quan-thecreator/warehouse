@@ -221,6 +221,11 @@ $$
 ||\vec{F}_d||=6\pi\eta Rv
 $$
 
+Furthermore, the terminal velocity of an object is when its weight is equal in magnitude and fully opposite in direction to its drag:
+
+$$
+||\vec{F}_\mathrm{net}||=mg-||\vec{F}_D||=m\vec{a}=0
+$$
 # Circular motion
 
 An object that moves in a circle at a constant speed $||\vec{v}||$ experiences **uniform circular motion**. The most important part of that sentence is the constant speed part; the measurement $||\vec{v}||$ is reference to the center of the circle. 
@@ -273,7 +278,7 @@ Additionally - if the net force experienced by an object at any time $t$ is expr
 $$
 \Delta p = J = \int_{t_1}^{t_2}{F(t)\mathrm{d}t}
 $$
-$j$ is also something called the *impulse.*
+$J$ is also something called the *impulse.*
 
 
 

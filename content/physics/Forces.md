@@ -218,7 +218,7 @@ $$
 
 Stokes' law also only functions for spheres. It's usually written as, with all of the aforementioned variables translating perfectly:
 $$
-||\vec{F}_d||=6\pi\eta Rv
+||\vec{F}_D||=6\pi\eta Rv
 $$
 
 Furthermore, the terminal velocity of an object is when its weight is equal in magnitude and fully opposite in direction to its drag:
@@ -280,6 +280,11 @@ Probably will never need to use this until HL year or the momentum unit (very ne
 $$
 \omega(t)=\frac{\mathrm{d}\theta}{\mathrm{d}t}
 $$
+Also:
+$$
+v=r\omega
+$$
+
 Angular acceleration:
 $$
 \alpha=\frac{\mathrm{d}\omega}{\mathrm{d}t}

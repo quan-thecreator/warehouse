@@ -272,6 +272,11 @@ Going off of the equation above for velocity, the angular velocity is simply:
 $$
 \omega = \frac{2\pi}{T}
 $$
+Also:
+$$
+v=r\omega
+$$
+
 
 ### Non-uniform circular motion 
 
@@ -280,11 +285,6 @@ Probably will never need to use this until HL year or the momentum unit (very ne
 $$
 \omega(t)=\frac{\mathrm{d}\theta}{\mathrm{d}t}
 $$
-Also:
-$$
-v=r\omega
-$$
-
 Angular acceleration:
 $$
 \alpha=\frac{\mathrm{d}\omega}{\mathrm{d}t}
@@ -296,7 +296,7 @@ Following those formulas (read more [here](https://en.wikipedia.org/wiki/Centrif
 $$
 ||\vec{F}_C||=m\omega^2r
 $$
-
+Centrifugal force in this situation is simply the centripetal force as observed from the center of the circular trajectors, in its reference frame. It's fairly easy to convert between the two inertial reference frames with simple algebra. 
 # Momentum
 
 > [!NOTE]+

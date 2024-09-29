@@ -1,7 +1,7 @@
 ---
 title: Forces Sample Test Answer Key
 date: 2024-09-29
-draft: true
+#draft: true
 ---
 
 > [!faq]- Answer 1
@@ -24,10 +24,10 @@ draft: true
 > $a$: $11 \mathrm{m}/\mathrm{s}^2$, right (rounded from $11.497 \mathrm{m}/\mathrm{s}^2$)
 
 > [!faq]- Answer 4 
-> $10.6$ N 
+> $6.8188$ N 
 
 > [!faq]- Answer 5  
-> A) $942$ N, B) $846$ N 
+> A) $922$ N, B) $1692.91$ N 
 
 
 > [!faq]- Answer 6 (Part 1)  
@@ -49,7 +49,7 @@ draft: true
 > $970 \tfrac{\text{kg}}{\text{m}^3}$
 
 > [!faq]- Answer 12 
-> $\eta=2.18$ ($\eta$ is usually treated as a dimensionless number).
+> $\eta=22.08333$ ($\eta$ is usually treated as a dimensionless number) (up for debate).
 
 > [!faq]- Answer 13 
 > $1350$ N/m

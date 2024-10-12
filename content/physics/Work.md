@@ -72,5 +72,5 @@ P=\frac{\mathrm{d}W}{\mathrm{d}t}
 $$
 An important characteristic of all engines (machines that transform stored potential energy into kinetic energy) is their **efficiency** $e$. I must note that the use of $e$ is incredible insensitive and stupid, but I digress. 
 $$
-e=\frac{P{\mathrm{out}}}{P_\mathrm{in}}
+e=\frac{P_{\mathrm{out}}}{P_\mathrm{in}}
 $$

@@ -74,3 +74,37 @@ An important characteristic of all engines (machines that transform stored poten
 $$
 e=\frac{P_{\mathrm{out}}}{P_\mathrm{in}}
 $$
+# Work from Force and Displacement Vectors
+
+Given:
+- **Force vector**: \( \vec{F} = \langle F_x, F_y, F_z \rangle \)
+- **Displacement vector**: \( \vec{d} = \langle d_x, d_y, d_z \rangle \)
+
+The **work \(W\)** is the dot product (scalar product) of these two vectors:
+
+\[
+W = \vec{F} \cdot \vec{d} = F_x d_x + F_y d_y + F_z d_z
+\]
+
+## Key Properties of the Dot Product
+1. **The result is a scalar**: Even though both force and displacement are vectors, the dot product outputs a single number (scalar) representing the total work.
+2. **Geometric interpretation**: 
+   \[
+   W = |\vec{F}| \, |\vec{d}| \, \cos \theta
+   \]
+   where \( \theta \) is the angle between the force and displacement vectors. This shows that only the component of the force along the direction of displacement contributes to the work.
+
+## Why Work is a Scalar and Not a Vector
+- **Work measures energy transfer**—it doesn’t have direction but only magnitude (e.g., Joules). 
+- If you tried to make it a vector, it would not have a meaningful physical interpretation since energy doesn’t have a direction in space—it just moves from one system to another.
+
+## Example Calculation
+If \( \vec{F} = \langle 5, 3, 0 \rangle \, \text{N} \) and \( \vec{d} = \langle 2, 4, 0 \rangle \, \text{m} \), the work done is:
+
+\[
+W = 5(2) + 3(4) + 0(0) = 10 + 12 = 22 \, \text{J}
+\]
+
+---
+
+In summary, work is always a **scalar quantity**, even though it is derived from two vectors (force and displacement).
